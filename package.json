@@ -3,7 +3,8 @@
     "name": "startbootstrap-agency",
     "version": "5.2.2",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch"
+        "start": "node_modules/.bin/gulp watch",
+        "build": "gulp"
     },
     "description": "Agency is a one page HTML theme for Bootstrap.",
     "keywords": [
@@ -14,7 +15,7 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/agency",
+    "homepage": "https://niqaxio-a311a.firebaseapp.com",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
         "email": "feedback@startbootstrap.com"
